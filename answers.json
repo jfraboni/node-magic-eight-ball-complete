@@ -1,0 +1,26 @@
+ {
+  "answers" : [
+		{"type": "positive", "value": "It is certain"},
+		{"type": "positive", "value": "It is decidedly so"},
+		{"type": "positive", "value": "Without a doubt"},
+		{"type": "positive", "value": "Yes definitely"},
+		{"type": "positive", "value": "You may rely on it"},
+		{"type": "positive", "value": "As I see it, yes"},
+		{"type": "positive", "value": "Most likely"},
+		{"type": "positive", "value": "Outlook good"},
+		{"type": "positive", "value": "Mos def"},
+		{"type": "positive", "value": "Signs point to yes"},
+
+		{"type": "neutral", "value": "Reply hazy try again"},
+		{"type": "neutral", "value": "Ask again later"},
+		{"type": "neutral", "value": "Better not tell you now"},
+		{"type": "neutral", "value": "Cannot predict now"},
+		{"type": "neutral", "value": "Concentrate and ask again"},
+
+		{"type": "nagative", "value": "Don't count on it"},
+		{"type": "nagative", "value": "My reply is no"},
+		{"type": "nagative", "value": "My sources say no"},
+		{"type": "nagative", "value": "Outlook not so good"},
+		{"type": "nagative", "value": "Very doubtful"}
+	]
+}
