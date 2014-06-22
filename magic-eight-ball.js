@@ -6,7 +6,7 @@ var
     fs = require('fs');
 
 // TODO 2 : create a welcomeMessage variable and log the welcomeMessage:
-var welcomeMessage = "Magic Eight Ball"
+var welcomeMessage = "Magic Eight Ball";
 console.log(welcomeMessage);
 
 // TODO 3 : create two variables, the answers array and the file path to the answers.json:
